@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+
+body {
+    font-family: 'Inter', sans-serif; 
+    background-color: hsl(0, 0%, 8%); 
+    color: hsl(0, 0%, 100%);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+}
+
+.main {
+    background-color: hsl(0, 0%, 12%); 
+    padding: 30px;
+    border-radius: 10px;
+    text-align: center;
+    width: 350px; 
+}
+
+.circle {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    overflow: hidden; 
+    margin: 0 auto; 
+    margin-bottom: 20px; 
+}
+
+.circle img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; 
+}
+
+.content h1 {
+    margin-bottom: 10px;
+}
+
+.content p1 {
+    color : hsl(75, 94%, 57%);
+}
+
+.content p {
+    color: hsl(0, 0%, 100%); 
+    margin-bottom: 20px;
+}
+
+.Social ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.Social li {
+    margin-bottom: 15px; 
+}
+
+.Social a {
+    display: block; 
+    background-color: #6b7280; 
+    color: hsl(0, 0%, 100%);
+    text-decoration: none;
+    padding: 15px;
+    border-radius: 8px;
+    transition: background-color 0.3s ease; 
+}
+
+.Social a:hover {
+    background-color: #4b5563; 
+}
+
+.attribution {
+    align-items: center;
+    margin-top: 20px;
+    font-size: 14px;
+    color: #9ca3af;
+}
+
+.attribution a {
+    color: #fff;
+    text-decoration: none;
+}
