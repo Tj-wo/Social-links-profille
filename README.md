@@ -23,13 +23,13 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Screenshot
 
-![](./FireShot Capture 001 - Frontend Mentor - Social links profile - [127.0.0.1].png)
+![Site Screenshot](FireShot.png?raw=true "Title")
 
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
-- Live Site URL: (https://your-live-site-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/responsive-social-links-3kkarlcnmQ)
+- Live Site URL: (https://tj-wo.github.io/Social-links-profille/)
 
 ## My process
 
